@@ -14,7 +14,7 @@ namespace AspNetCoreBackend
     {
         public static void Main(string[] args)
         {
-            CreateWebHostBuilder(args).Build().Run(); //v
+            CreateWebHostBuilder(args).Build().Run();
         }
 
         public static IWebHostBuilder CreateWebHostBuilder(string[] args) =>
