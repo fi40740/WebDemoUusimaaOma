@@ -1,0 +1,2 @@
+Aja komento Packager Manager Consolessa:
+Scaffold-DbContext "Server=localhost\SQLEXPRESS;Database=Northwind;Trusted_Connection=True" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models
